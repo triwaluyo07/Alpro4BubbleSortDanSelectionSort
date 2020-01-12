@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521535214 source:d:\alpro4\selecsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521535286 source:e:\alpro\alpro4\selecsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
